@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Nicolás Iván Gallo García</h1>
-<h3 align="center">Un apasionado desarrollador frontend de Argentina</h3>
+<h3 align="center">Un apasionado desarrollador Full Stack de Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galoss88&label=Profile%20views&color=0e75b6&style=flat" alt="galoss88" /> </p>
 
