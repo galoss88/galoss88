@@ -11,8 +11,8 @@
 - 📫 Cómo contactarme **gallogarcianicolas@gmail.com**
 
 - 📄 Conoce mis experiencias
-- [Bootcamp Henry](Bootcamp Henry)
 - Blackcode software: Elaboracion de ecommerce para cliente dedicado a la venta de cotillon, se puede ver en www.festilandiacotillon.com
+- Open business: Desarrollo de soluciones para el sector retail.
 
 
 <h3 align="left">Conéctate conmigo:</h3>
